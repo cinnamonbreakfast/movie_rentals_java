@@ -5,7 +5,7 @@
 - local (no server)
 - Postgres DB
 - dependency using Spring
-- No XML config files
+- No XML config files(except SLF4J lol)
 - component scan
 - JpaRepository
 - SLF4J for logs (level: trace)
