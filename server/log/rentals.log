@@ -1,4 +1,0 @@
-2020-04-21T23:38:05,482 TRACE [main]: ClientServiceImpl                    - getAll - method entered 
-2020-04-21T23:38:05,803 TRACE [main]: ClientServiceImpl                    - getAll - method finished 
-2020-04-21T23:39:02,135 TRACE [main]: ClientServiceImpl                    - getAll - method entered 
-2020-04-21T23:39:02,476 TRACE [main]: ClientServiceImpl                    - getAll - method finished 
