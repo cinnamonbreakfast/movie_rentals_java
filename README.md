@@ -1,6 +1,6 @@
 # Movie Rentals application using Spring, Hibernate, Postgres and JPA
 
-## Version 1.0.0
+## Version 2.0.0
 
 - local (no server)
 - Postgres DB
@@ -11,4 +11,4 @@
 - SLF4J for logs (level: trace)
 - Hibernate for Entity-Database connection
 
-This project is an extension to <LINK TBA>
+This project is an extension to [Movie Rental 1.2.0](https://github.com/cinnamonbreakfast/uni_implementations/tree/master/SDI/Movie%20Rental%20SpringBoot)
