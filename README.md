@@ -1,4 +1,4 @@
-scripts temp removed cause fomistii din UBB nu si pot face tema singuri
+:)
 
 # Movie Rentals application using Spring, Hibernate, Postgres and JPA
 
