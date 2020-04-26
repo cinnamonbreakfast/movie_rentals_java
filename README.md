@@ -1,3 +1,5 @@
+:)
+
 # Movie Rentals application using Spring, Hibernate, Postgres and JPA
 
 ## Version 2.0.0
