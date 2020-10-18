@@ -2,3 +2,15 @@
 2020-04-21T23:38:05,803 TRACE [main]: ClientServiceImpl                    - getAll - method finished 
 2020-04-21T23:39:02,135 TRACE [main]: ClientServiceImpl                    - getAll - method entered 
 2020-04-21T23:39:02,476 TRACE [main]: ClientServiceImpl                    - getAll - method finished 
+2020-04-29T10:39:03,957 TRACE [main]: ClientServiceImpl                    - getAll - method entered 
+2020-04-29T10:39:04,316 TRACE [main]: ClientServiceImpl                    - getAll - method finished 
+2020-04-29T10:44:04,976 TRACE [main]: ClientServiceImpl                    - getAll - method entered 
+2020-04-29T10:44:05,273 TRACE [main]: ClientServiceImpl                    - getAll - method finished 
+2020-04-29T10:44:20,083 TRACE [main]: ClientServiceImpl                    - addClient - method entered: student=Client{firstName='Test', secondName='Name', job='Job', age=22} 
+2020-04-29T10:44:20,176 TRACE [main]: ClientServiceImpl                    - addClient - method finished 
+2020-04-29T10:44:30,145 TRACE [main]: ClientServiceImpl                    - getAll - method entered 
+2020-04-29T10:44:30,161 TRACE [main]: ClientServiceImpl                    - getAll - method finished 
+2020-04-29T10:44:48,237 TRACE [main]: ClientServiceImpl                    - updateClient - method entered: entity=Client{firstName='Testt', secondName='Nname', job='Jjobb', age=33} 
+2020-04-29T10:44:48,253 TRACE [main]: ClientServiceImpl                    - updateClient - method finished 
+2020-04-29T10:44:54,288 TRACE [main]: ClientServiceImpl                    - getAll - method entered 
+2020-04-29T10:44:54,288 TRACE [main]: ClientServiceImpl                    - getAll - method finished 

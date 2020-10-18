@@ -7,6 +7,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Component;
+import org.springframework.transaction.annotation.Transactional;
 import repository.ClientRepository;
 
 import java.util.List;
@@ -83,7 +84,9 @@ public class ClientServiceImpl implements ClientService {
         log.trace("removeClient - method finished");
     }
 
+
     @Override
+    @Transactional
     public void updateClient(Client entity) {
         log.trace("updateClient - method entered: entity={}", entity);
         clientRepository.findById(entity.getId())
